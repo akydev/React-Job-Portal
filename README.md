@@ -20,6 +20,9 @@ To set up the project locally, follow these steps:
 
 ## Terminal command
 git clone https://github.com/akydev/job-portal.git
+
 cd job-portal
+
 npm install
+
 npm start
