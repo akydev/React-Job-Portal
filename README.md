@@ -19,9 +19,7 @@ This project aims to simplify the job search process by providing a streamlined 
 To set up the project locally, follow these steps:
 
 ## Terminal command
-git clone https://github.com/akydev/job-portal.git
-
-cd job-portal
+git clone https://github.com/akydev/React-Job-Portal.git
 
 npm install
 
